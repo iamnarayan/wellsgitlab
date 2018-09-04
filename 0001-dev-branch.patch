@@ -1,0 +1,21 @@
+From 49f258c5f266dc1465a8e20d7e4d7e49684ef6d5 Mon Sep 17 00:00:00 2001
+From: centos <centos@centos.com>
+Date: Mon, 3 Sep 2018 14:47:30 +0530
+Subject: [PATCH] dev branch
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index 9abe8d5..6656685 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,4 @@
+ # wellsgitlab
+ I am a new user
+ Testing Conflict
++This is for development branch
+-- 
+1.8.3.1
+
